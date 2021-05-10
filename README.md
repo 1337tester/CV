@@ -1,8 +1,6 @@
 # Michal Zima
 
-[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [xing[^1]](https://www.xing.com/profile/Michal_Zima/cv)
-
-
+[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [xing](https://www.xing.com/profile/Michal_Zima/cv)
 
  ## About
 
@@ -90,7 +88,3 @@ Swiss bank - Providing testing services in a digitization project for a team und
 [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/)
 [several courses from RST](https://rapid-software-testing.com/)
 [h4ck1ng](`https://tryhackme.com/badge/336286`)
-
-
-
-[^1]: Not very maintained
