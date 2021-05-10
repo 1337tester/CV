@@ -1,5 +1,9 @@
 # Michal Zima
 
+[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [xing[^1]](https://www.xing.com/profile/Michal_Zima/cv)
+
+
+
  ## About
 
 Testing for me is searching for order in the chaotic complexity which can emerge from the simplest of designs. It is bringing clarity into uncertainty, bringing value for the stakeholders with the quick and comprehensible information I provide.
@@ -10,15 +14,15 @@ _“Michal tested this, there will be no surprises”_
 
 My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem.
 
-When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet. Actively interested in cryptocurrencies.
+When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet. Sometimes cryptocurrencies, sometimes 
 
 ## Skills & Expertise
 *   Testing - basically any form, if the system exists I’m motivated and capable to find out how exactly it works at any given moment
-*   Basics of security testing (OWASP10, training my mindset with various books, courses and conferences)
 *   Scripting - Powershell, Python, Bash
 *   Automation in Testing (Selenium - python, java, Tosca)
 *   Maintenance of Automated Test Processes
 *   Databases – SQL (queries & joins to navigate the data)
+*   Security testing (OWASP10, networking, forensics)
 *   Basically any agile or less agile issue tracking or project managing tool
 *   Banking knowhow– various assembled business knowledge from payments, accounting, document processing
 
@@ -73,42 +77,28 @@ Swiss bank - Providing testing services in a digitization project for a team und
 	automated regression test scripts \
 	Enabling the client with further possibilities of test  \
 	automation software \
-	Facilitating  test community within the company	
+	
 
 **Automation Test Engineer \
 **At ERNI I have experienced advanced testing methodology and heuristics – automated test scripts, performance testing, exploratory testing and the basics of requirement engineering. Regular communication and reporting on the current status of complex applications. Organized test courses/training for colleagues. \
 Clients: Reinsurance Company, Company for measuring sensors & embedded software \
+- [x] Automated scripts
+- [x] Update the website  
+- [x] Facilitating  test community within the company
 
+2010 – 2012	**Accenture, Bratislava**
+- [x] Kickstart testing career
+- [x] Learning the basics
+- [x] Enjoying working in my first team
 
-03/2010 – 01/2012	**Accenture, Bratislava \
-**2 years**	**Reporting and Analysis of Defects \
-	Writing and Execution of Test Cases - UAT \
-	Maintenance of test environment - versioning,  \
-	managing backups \
-**Test Engineer \
-**Accenture was the first company for me as a tester. I had the chance to grow and improve myself in a variety of Projects. I gained experience with testing in various sectors, Banking, Insurance and Telco. Testing – Manual, Re-testing, Bug tracking
-
-### Achievements & Certifications
-Bug Bounty Hunting - Offensive Approach to Hunt Bugs	November 2019 \
-[AST Black box software testing](https://www.associationforsoftwaretesting.org/graduates/)						November 2017 \
-Learn The Basics of Ethical Hacking and Penetration Testing	September 2017 \
-Cryptography I						July 2017 \
-Selenium WebDriver With Python 3.x - Novice To Ninja 	May 2017 \
-RST – Rapid Software Testing (James Bach & Michael Bolton)	April 2016 \
-6.00.2x: Introduction to Computational Thinking 		December 2016 \
-and Data Science	 \
-6.00.1x: Introduction to Computer Science and 			November 2016 \
-Programming Using Python	 \
-An Introduction to Interactive Programming in Python		December 2014 \
-RTI – Rapid Testing Intensive						May 2014 \
-IREB - Certified Professional in Requirements Engineering	Juni 2013
-ISTQB - Certified Tester Foundation Level				March 2013
-
-### Other 
-[Github](https://github.com/1337tester)
-[website/blog](https://www.1337tester.com)
+### Certifications and directions of learning
+[crypto](https://www.coursera.org/account/accomplishments/verify/5NFZK88SZ5NA)
+[python](https://www.hackerrank.com/certificates/2b05ea6d7fe0) with [automation](https://www.udemy.com/certificate/UC-FRHJVODO/)[more python](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488)[pyth0n](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925)[more](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf)[also here](https://www.hackerrank.com/certificates/2b05ea6d7fe0)
+[forensics](https://www.udemy.com/certificate/UC-38XPV8V0/)
+[bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/)
+[TOSCA](AS1 12.x - COC0121382)
+[several courses from RST]https://rapid-software-testing.com/)
 
 
 
-
-									
+[^1]: Not very maintained
