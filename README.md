@@ -38,7 +38,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - [x] Python / Pytest  / Selenium
 - [x] Following the coverage with the speed of development and providing additional value with quick testing feedback
 
-3m - **Home automation company**
+**Home automation company**
 - [x] Investigating various aspects of a home automation solution
 - [x] Interesting experience with IoT and and various included platforms (smartphone, tablet, web, embedded)
 ---
