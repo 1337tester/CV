@@ -16,6 +16,7 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 ## Professional Activity
 ---
 2016 – now	**Test Specialist** [House of Test GmbH](https://houseoftest.ch/)
+
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
 **Swiss bank**
@@ -40,8 +41,11 @@ _With House of Test, I found the ideal company for my testing career. It is full
 
 **Home automation company**
 - [x] Investigating various aspects of a home automation solution
-- [x] Interesting experience with IoT and and various included platforms (smartphone, tablet, web, embedded)
+- [x] Experience with IoT and and various included platforms (smartphone, tablet, web, embedded)
+
+
 ---
+
 2014 – 2016	**Test Consultant** [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
 - [x] Testing of banking systems - major swiss bank
 - [x] EBA SDD certification tester
@@ -49,17 +53,24 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - [x] Tester at PROD emergency deployments
 - [x] Subject matter expert on several topics – EBA, SIX, PF
 - [x] Powershell, SQL
+
+
 ---
+
 2012 – 2014	**Automation Test Engineer** [ERNI, BA](https://www.outsourcing.erni/bratislava)
 - [x] Automated scripts
 - [x] Hardware/Software embedded Systems
 - [x] Starting work in the Swiss sphere 
+
+
 ---
+
 2010 – 2012	**Tester** [Accenture, BA](https://www.accenture.com/sk-en)
 - [x] Kickstart testing career
 - [x] Learning the basics
 - [x] Enjoying working in my first team
----
+
+
 ## Skills & Expertise
 *   Testing - basically any form, if the system exists I’m motivated and capable to find out how exactly it works at any given moment
 *   Scripting - Powershell, Python, Bash
