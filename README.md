@@ -2,20 +2,23 @@
 
 [Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)
 
+![photo](profi_foto.JPG)
+
+
 ## About
 Testing for me is searching for order in the chaotic complexity which can emerge from the simplest of designs. It is bringing clarity into uncertainty, bringing value for the stakeholders with the quick and comprehensible information I provide.
 
 I jumped into testing right after my master’s degree in management of computer systems. Working on various projects I started to develop a passion and enthusiasm for this profession. I am constantly refining and adding to my skills through work itself, through self-study, from courses/seminars and on community events. While on projects I seek new ways to solve problems, minimize chaos, promote collaboration and build a knowledge base among people. I strive to achieve mutual trust in the form of:
 
->Michal tested this, there will be no surprises
+_Michal tested this, there will be no surprises_
 
 My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem. 
 
 When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet.
 
-## Professional Activity
+<span style="color:blue">## Professional Activity</span>
 ---
-
+some *blue* text</span>
 #### 2016 – now	**Test Specialist** [House of Test GmbH](https://houseoftest.ch/)
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
