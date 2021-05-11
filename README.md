@@ -15,60 +15,62 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 
 ## Professional Activity
 ---
-2016 – now	**Test Specialist** [House of Test GmbH](https://houseoftest.ch/)
+
+#### 2016 – now	**Test Specialist** [House of Test GmbH](https://houseoftest.ch/)
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
-**Swiss bank**
-- [x] Providing testing services in a digitization project for a team undergoing a transformation from waterfall into agile
-- [x] Setting up test processes, test data organisation, defect management
-- [x] day-to-day investigation on system issues
-- [x] TOSCA /powershell / SQL / python / selenium (java)
+**[ZKB](https://www.zkb.ch/)**
+- Providing testing services in a digitization project for a team undergoing a transformation from waterfall into agile
+- Setting up test processes, test data organisation, defect management
+- day-to-day investigation on system issues
+- TOSCA /powershell / SQL / python / selenium (java)
 
-**Food delivery giant**
-- [x] Introducing testing practices into two separate Growth teams
-- [x] Rapid development & testing of multi-variant experiments, ‘fail fast’ approach
-- [x] Python  / mobile apps testing (Android Studio)
+**[Just Eat UK](https://www.just-eat.co.uk/)**
+- Introducing testing practices into two separate Growth teams
+- Rapid development & testing of multi-variant experiments, ‘fail fast’ approach
+- Python  / mobile apps testing (Android Studio)
 
-**Swiss bank**
-- [x] Helping the bank with the transition from traditional waterfall testing into a more context-oriented approach
-- [x] Avaloq system / financial domain
+**[BLKB](https://www.blkb.ch/)**
+- Helping the bank with the transition from traditional waterfall testing into a more context-oriented approach
+- Avaloq system / financial domain
 
-**Decentralized marketplace solution**
-- [x] Delivering an automation checking suite
-- [x] Python / Pytest  / Selenium
-- [x] Following the coverage with the speed of development and providing additional value with quick testing feedback
+**[eBay](https://www.ebay.co.uk/) (Intradesys)**
+- Delivering an automation checking suite
+- Python / Pytest  / Selenium
+- Following the coverage with the speed of development and providing additional value with quick testing feedback
 
-**Home automation company**
-- [x] Investigating various aspects of a home automation solution
-- [x] Experience with IoT and and various included platforms (smartphone, tablet, web, embedded)
-
-
----
-
-2014 – 2016	**Test Consultant** [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
-- [x] Testing of banking systems - major swiss bank
-- [x] EBA SDD certification tester
-- [x] Guiding and teaching junior testers
-- [x] Tester at PROD emergency deployments
-- [x] Subject matter expert on several topics – EBA, SIX, PF
-- [x] Powershell, SQL
+**[Swisscom Home Automation](https://www.swisscom.ch)**
+- Investigating various aspects of a home automation solution
+- Experience with IoT and and various included platforms (smartphone, tablet, web, embedded)
 
 
 ---
 
-2012 – 2014	**Automation Test Engineer** [ERNI, BA](https://www.outsourcing.erni/bratislava)
-- [x] Automated scripts
-- [x] Hardware/Software embedded Systems
-- [x] Starting work in the Swiss sphere 
+#### 2014 – 2016	**Test Consultant** [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
+- Testing of banking systems - [Credit Suisse](https://www.credit-suisse.com/ch/de.html)
+- EBA SDD certification tester
+- Guiding and teaching junior testers
+- Tester at PROD emergency deployments
+- Subject matter expert on several topics – EBA, SIX, PF
+- Powershell, SQL
 
 
 ---
 
-2010 – 2012	**Tester** [Accenture, BA](https://www.accenture.com/sk-en)
-- [x] Kickstart testing career
-- [x] Learning the basics
-- [x] Enjoying working in my first team
+#### 2012 – 2014	**Automation Test Engineer** [ERNI, BA](https://www.outsourcing.erni/bratislava)
+- [SCOR](https://www.scor.com/en) / [KISTLER](https://www.kistler.com/de/)
+- Automated scripts
+- Hardware/Software embedded Systems
+- Starting work in the Swiss sphere 
+
+
+---
+
+#### 2010 – 2012	**Tester** [Accenture, BA](https://www.accenture.com/sk-en)
+- Kickstart testing career
+- Learning the basics
+- Enjoying working in my first team
 
 
 ## Skills & Expertise
