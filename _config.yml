@@ -1,4 +1,3 @@
-markdown:   kramdown
-style:  kjhealy
+theme: jekyll-theme-minimal
 title: 💻🥋🎮🧭🏍️
 description: Michal Zima's CV
