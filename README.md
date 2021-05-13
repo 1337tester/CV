@@ -16,7 +16,7 @@ My strength dwells in curiosity to figure out software problems into their atomi
 
 When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet.
 
-<span style="color:blue">## Professional Activity</span>
+## <span style="color:blue">Professional Activity</span>
 ---
 some *blue* text</span>
 #### 2016 – now	**Test Specialist** [House of Test GmbH](https://houseoftest.ch/)
@@ -103,4 +103,7 @@ Slovakian	Native Speaker
 - [python](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [with automation](https://www.udemy.com/certificate/UC-FRHJVODO/) / [more python](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pyth0n](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [more](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf) / [also here](https://www.hackerrank.com/certificates/2b05ea6d7fe0)
 - [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/verify/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme.com/badge/336286)
 - [several courses from RST](https://rapid-software-testing.com/)
+
+---
+![feedback_GPP](feedback_GPP.png)
 
