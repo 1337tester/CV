@@ -105,6 +105,9 @@ Slovakian	Native Speaker
 - [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme.com/badge/336286)
 - [several courses from RST](https://rapid-software-testing.com/)
 
+
+<script src="https://tryhackme.com/badge/336286"></script>
+
 <div class="pagebreak"> </div>
 
 ## <span style="color:darkblue">References</span>
