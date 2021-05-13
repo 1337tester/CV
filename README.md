@@ -1,8 +1,8 @@
 # Michal Zima
 
-%%[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)%%
+[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)
 
-|  | ![photo](profi_foto.JPG) |
+|  | ![photo](profi_foto.jpg) |
 | ----------- | ----------- |
 | Email | miso.zima@1337tester.com |
 | Web | www.1337tester.com | 
@@ -16,7 +16,7 @@ Testing for me is searching for order in the chaotic complexity which can emerge
 
 While on projects I seek new ways to solve problems, minimize chaos, promote collaboration and build a knowledge base among people. I strive to achieve mutual trust in the form of:
 
-_**Michal tested this, there will be no surprises**_
+_**"Michal tested this, there will be no surprises"**_
 
 My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem. 
 
@@ -24,8 +24,8 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 
 <div class="pagebreak"> </div>
 
-## <span style="color:darkblue">Professional Activity</span>
-#### 2016 – now		**Test Specialist**, [House of Test GmbH](https://houseoftest.ch/)
+## Professional Activity
+#### 2016 – now		**Test Specialist**, [House of Test GmbH, CH/UK](https://houseoftest.ch/)
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
@@ -100,16 +100,23 @@ Slovakian	Native Speaker
 
 2009-now	Owning my education by reading books (testing, psychology, economics), attending onsite or online courses (Coursera, Udemy, BBST, ...) and conferences (3XC3, Defcon, Craft, SoCraTes), mainly security-oriented stuff (broad spectrum from network and security tools to lockpicking)
 
-## Certifications and directions of learning
-- [python](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [with automation](https://www.udemy.com/certificate/UC-FRHJVODO/) / [more python](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pyth0n](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [more](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf) / [also here]()
-- [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme.com/badge/336286)
-- [several courses from RST](https://rapid-software-testing.com/)
-
-
-<script src="https://tryhackme.com/badge/336286"></script>
-
 <div class="pagebreak"> </div>
 
-## <span style="color:darkblue">References</span>
+## References
 ![feedback_GPP](feedback_GPP.png)
 
+## Certifications and directions of learning
+- [python on hackerrank](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [python selenium](https://www.udemy.com/certificate/UC-FRHJVODO/) / [computer science and programming using python pt1](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pt2](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [interactive programming in python](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf)
+- [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
+- [several courses from RST](https://rapid-software-testing.com/)
+
+![tryhackme](tryhackme.png)
+![python_cour](python_cour.png)
+![python_edx1](python_edx1.png)
+![python_edx2](python_edx2.png)
+![python_udemy](python_udemy.png)
+![bug_bounty](bug_bounty.png)
+![forensics](forensics.png)
+![crypto1](crypto1.png)
+
+<script src="https://tryhackme.com/badge/336286"></script>

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CV.md",
+            "file": "README.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CV.md",
+            "file": "README.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CV.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "02f5ca2c8bc85b5d",
   "lastOpenFiles": [
-    "CV.md",
     "README.md",
+    "CV.md",
     "profi_foto.JPG",
     "profi_photo.jpg.md",
     "Untitled.md"
