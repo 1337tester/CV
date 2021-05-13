@@ -1,0 +1,192 @@
+[1mdiff --git a/.obsidian/config b/.obsidian/config[m
+[1mindex f8c54af..190baa6 100644[m
+[1m--- a/.obsidian/config[m
+[1m+++ b/.obsidian/config[m
+[36m@@ -1 +1 @@[m
+[31m-{"pluginEnabledStatus":{"file-explorer":true,"global-search":true,"switcher":true,"graph":true,"backlink":true,"command-palette":true,"markdown-importer":true,"word-count":true,"open-with-default-app":true,"file-recovery":true},"pdfExportSettings":{"pageSize":"A4","landscape":false,"margin":"0","downscalePercent":100},"promptDelete":false}[m
+\ No newline at end of file[m
+[32m+[m[32m{"pluginEnabledStatus":{"file-explorer":true,"global-search":true,"switcher":true,"graph":true,"backlink":true,"command-palette":true,"markdown-importer":true,"word-count":true,"open-with-default-app":true,"file-recovery":true,"page-preview":true},"pdfExportSettings":{"pageSize":"A4","landscape":false,"margin":"0","downscalePercent":100},"promptDelete":false,"baseFontSize":14,"obsidianCss":false,"enabledCssSnippets":["table","headings","inlinecode","ext_link","ext_link_newpage"],"theme":"moonstone","cssTheme":"Traffic Lights"}[m
+\ No newline at end of file[m
+[1mdiff --git a/.obsidian/workspace b/.obsidian/workspace[m
+[1mindex f52f100..ff2c7aa 100644[m
+[1m--- a/.obsidian/workspace[m
+[1m+++ b/.obsidian/workspace[m
+[36m@@ -4,28 +4,28 @@[m
+     "type": "split",[m
+     "children": [[m
+       {[m
+[31m-        "id": "b3570b3b0f3befe7",[m
+[32m+[m[32m        "id": "02f5ca2c8bc85b5d",[m
+         "type": "leaf",[m
+         "state": {[m
+           "type": "markdown",[m
+           "state": {[m
+[31m-            "file": "README.md",[m
+[32m+[m[32m            "file": "CV.md",[m
+             "mode": "source"[m
+           }[m
+         },[m
+[31m-        "group": "eb46af46cd2d83e2"[m
+[32m+[m[32m        "group": "2c29878e94d62c2b"[m
+       },[m
+       {[m
+[31m-        "id": "ef5d91401b0e489a",[m
+[32m+[m[32m        "id": "9039bedacdcd450a",[m
+         "type": "leaf",[m
+         "state": {[m
+           "type": "markdown",[m
+           "state": {[m
+[31m-            "file": "README.md",[m
+[32m+[m[32m            "file": "CV.md",[m
+             "mode": "preview"[m
+           }[m
+         },[m
+[31m-        "group": "eb46af46cd2d83e2"[m
+[32m+[m[32m        "group": "2c29878e94d62c2b"[m
+       }[m
+     ],[m
+     "direction": "vertical"[m
+[36m@@ -65,7 +65,7 @@[m
+       }[m
+     ],[m
+     "direction": "horizontal",[m
+[31m-    "width": 300[m
+[32m+[m[32m    "width": 179[m
+   },[m
+   "right": {[m
+     "id": "6786678b38473e21",[m
+[36m@@ -81,7 +81,7 @@[m
+             "state": {[m
+               "type": "backlink",[m
+               "state": {[m
+[31m-                "file": "README.md",[m
+[32m+[m[32m                "file": "CV.md",[m
+                 "collapseAll": false,[m
+                 "extraContext": false,[m
+                 "sortOrder": "alphabetical",[m
+[36m@@ -99,8 +99,9 @@[m
+     "width": 300,[m
+     "collapsed": true[m
+   },[m
+[31m-  "active": "b3570b3b0f3befe7",[m
+[32m+[m[32m  "active": "9039bedacdcd450a",[m
+   "lastOpenFiles": [[m
+[32m+[m[32m    "CV.md",[m
+     "README.md",[m
+     "profi_foto.JPG",[m
+     "profi_photo.jpg.md",[m
+[1mdiff --git a/README.md b/README.md[m
+[1mdeleted file mode 100644[m
+[1mindex 17fdfb9..0000000[m
+[1m--- a/README.md[m
+[1m+++ /dev/null[m
+[36m@@ -1,109 +0,0 @@[m
+[31m-# Michal Zima[m
+[31m-[m
+[31m-[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)[m
+[31m-[m
+[31m-![photo](profi_foto.JPG)[m
+[31m-[m
+[31m-[m
+[31m-## About[m
+[31m-Testing for me is searching for order in the chaotic complexity which can emerge from the simplest of designs. It is bringing clarity into uncertainty, bringing value for the stakeholders with the quick and comprehensible information I provide.[m
+[31m-[m
+[31m-I jumped into testing right after my master’s degree in management of computer systems. Working on various projects I started to develop a passion and enthusiasm for this profession. I am constantly refining and adding to my skills through work itself, through self-study, from courses/seminars and on community events. While on projects I seek new ways to solve problems, minimize chaos, promote collaboration and build a knowledge base among people. I strive to achieve mutual trust in the form of:[m
+[31m-[m
+[31m-_Michal tested this, there will be no surprises_[m
+[31m-[m
+[31m-My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem. [m
+[31m-[m
+[31m-When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet.[m
+[31m-[m
+[31m-## <span style="color:blue">Professional Activity</span>[m
+[31m----[m
+[31m-some *blue* text</span>[m
+[31m-#### 2016 – now	**Test Specialist** [House of Test GmbH](https://houseoftest.ch/)[m
+[31m-[m
+[31m-_With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._[m
+[31m-[m
+[31m-**[ZKB](https://www.zkb.ch/)**[m
+[31m-- Providing testing services in a digitization project for a team undergoing a transformation from waterfall into agile[m
+[31m-- Setting up test processes, test data organisation, defect management[m
+[31m-- day-to-day investigation on system issues[m
+[31m-- TOSCA /powershell / SQL / python / selenium (java)[m
+[31m-[m
+[31m-**[Just Eat UK](https://www.just-eat.co.uk/)**[m
+[31m-- Introducing testing practices into two separate Growth teams[m
+[31m-- Rapid development & testing of multi-variant experiments, ‘fail fast’ approach[m
+[31m-- Python  / mobile apps testing (Android Studio)[m
+[31m-[m
+[31m-**[BLKB](https://www.blkb.ch/)**[m
+[31m-- Helping the bank with the transition from traditional waterfall testing into a more context-oriented approach[m
+[31m-- Avaloq system / financial domain[m
+[31m-[m
+[31m-**[eBay](https://www.ebay.co.uk/) (Intradesys)**[m
+[31m-- Delivering an automation checking suite[m
+[31m-- Python / Pytest  / Selenium[m
+[31m-- Following the coverage with the speed of development and providing additional value with quick testing feedback[m
+[31m-[m
+[31m-**[Swisscom Home Automation](https://www.swisscom.ch)**[m
+[31m-- Investigating various aspects of a home automation solution[m
+[31m-- Experience with IoT and and various included platforms (smartphone, tablet, web, embedded)[m
+[31m-[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-#### 2014 – 2016	**Test Consultant** [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)[m
+[31m-- Testing of banking systems - [Credit Suisse](https://www.credit-suisse.com/ch/de.html)[m
+[31m-- EBA SDD certification tester[m
+[31m-- Guiding and teaching junior testers[m
+[31m-- Tester at PROD emergency deployments[m
+[31m-- Subject matter expert on several topics – EBA, SIX, PF[m
+[31m-- Powershell, SQL[m
+[31m-[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-#### 2012 – 2014	**Automation Test Engineer** [ERNI, BA](https://www.outsourcing.erni/bratislava)[m
+[31m-- [SCOR](https://www.scor.com/en) / [KISTLER](https://www.kistler.com/de/)[m
+[31m-- Automated scripts[m
+[31m-- Hardware/Software embedded Systems[m
+[31m-- Starting work in the Swiss sphere [m
+[31m-[m
+[31m-[m
+[31m----[m
+[31m-[m
+[31m-#### 2010 – 2012	**Tester** [Accenture, BA](https://www.accenture.com/sk-en)[m
+[31m-- Kickstart testing career[m
+[31m-- Learning the basics[m
+[31m-- Enjoying working in my first team[m
+[31m-[m
+[31m-[m
+[31m-## Skills & Expertise[m
+[31m-*   Testing - basically any form, if the system exists I’m motivated and capable to find out how exactly it works at any given moment[m
+[31m-*   Scripting - Powershell, Python, Bash[m
+[31m-*   Automation in Testing (Selenium - python, java, Tosca)[m
+[31m-*   Maintenance of Automated Test Processes[m
+[31m-*   Databases – SQL[m
+[31m-*   Security testing (OWASP10, networking, forensics)[m
+[31m-*   Basically any agile or less agile issue tracking or project managing tool[m
+[31m-*   Banking knowhow– various assembled business knowledge from payments, accounting, document processing[m
+[31m-[m
+[31m-#### Languages[m
+[31m-[m
+[31m-English	 - Full Professional Knowledge \[m
+[31m-German	Full Professional Knowledge \[m
+[31m-Swiss German[m
+[31m-Slovakian	Native Speaker[m
+[31m-[m
+[31m-#### Education[m
+[31m-2004-2009	Comenius University, Faculty of Management, \[m
+[31m-	Master in IT Management[m
+[31m-[m
+[31m-2009-now	Owning my education by reading books (testing, psychology, economics), attending onsite or online courses (Coursera, Udemy, BBST, ...) and conferences (3XC3, Defcon, Craft, SoCraTes), mainly security-oriented stuff (broad spectrum from network and security tools to lockpicking)[m
+[31m-[m
+[31m-### Certifications and directions of learning[m
+[31m-- [python](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [with automation](https://www.udemy.com/certificate/UC-FRHJVODO/) / [more python](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pyth0n](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [more](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf) / [also here](https://www.hackerrank.com/certificates/2b05ea6d7fe0)[m
+[31m-- [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/verify/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme.com/badge/336286)[m
+[31m-- [several courses from RST](https://rapid-software-testing.com/)[m
+[31m-[m
+[31m----[m
+[31m-![feedback_GPP](feedback_GPP.png)[m
+[31m-[m

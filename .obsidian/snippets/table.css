@@ -1,0 +1,6 @@
+/* Table as per Typora Solarized theme */
+table {
+  padding: 0;
+  word-break: initial;
+  --background-modifier-border: #ffffff;
+}

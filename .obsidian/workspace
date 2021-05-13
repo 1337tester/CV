@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b3570b3b0f3befe7",
+        "id": "02f5ca2c8bc85b5d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "CV.md",
             "mode": "source"
           }
         },
-        "group": "eb46af46cd2d83e2"
+        "group": "2c29878e94d62c2b"
       },
       {
-        "id": "ef5d91401b0e489a",
+        "id": "9039bedacdcd450a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "CV.md",
             "mode": "preview"
           }
         },
-        "group": "eb46af46cd2d83e2"
+        "group": "2c29878e94d62c2b"
       }
     ],
     "direction": "vertical"
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 179
   },
   "right": {
     "id": "6786678b38473e21",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3570b3b0f3befe7",
+  "active": "9039bedacdcd450a",
   "lastOpenFiles": [
+    "CV.md",
     "README.md",
     "profi_foto.JPG",
     "profi_photo.jpg.md",
