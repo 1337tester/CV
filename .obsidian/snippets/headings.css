@@ -1,12 +1,12 @@
 .cm-header-1, .markdown-preview-view h1 {
-  color: darkblue;
+  color: navy;
 }
 .cm-header-2, .markdown-preview-view h2 {
   color: darkblue;
 }
 .cm-header-3, .markdown-preview-view h4 {
-  color: lightblue;
+  color: DarkSlateBlue;
 }
 .cm-header-4, .markdown-preview-view h4 {
-  color: blue;
+  color: MidnightBlue;
 }

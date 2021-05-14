@@ -11,7 +11,7 @@
 | Nationality | Slovak | 
 | Date of birth | 17.01.1986 | 
 
-## <span style="color:darkblue">About</span>
+## About
 Testing for me is searching for order in the chaotic complexity which can emerge from the simplest of designs. It is bringing clarity into uncertainty, bringing value for the stakeholders with the quick and comprehensible information I provide.
 
 While on projects I seek new ways to solve problems, minimize chaos, promote collaboration and build a knowledge base among people. I strive to achieve mutual trust in the form of:
@@ -25,7 +25,7 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 <div class="pagebreak"> </div>
 
 ## Professional Activity
-#### 2016 – now		**Test Specialist**, [House of Test GmbH, CH/UK](https://houseoftest.ch/)
+#### `2016 - now` **Test Specialist**, [House of Test GmbH, CH/UK](https://houseoftest.ch/)
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
@@ -54,7 +54,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - Experience with IoT and and various included platforms (smartphone, tablet, web, embedded)
 ---
 
-#### (2014 – 2016)	**Test Consultant**, [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
+#### `2014 – 2016` **Test Consultant**, [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
 - Testing of banking systems - [Credit Suisse](https://www.credit-suisse.com/ch/de.html)
 - EBA SDD certification tester
 - Guiding and teaching junior testers
@@ -63,21 +63,20 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - Powershell, SQL
 ---
 
-#### (2012 – 2014)	**Automation Test Engineer**, [ERNI, BA](https://www.outsourcing.erni/bratislava)
+#### `2012 – 2014` **Automation Test Engineer**, [ERNI, BA](https://www.outsourcing.erni/bratislava)
 - [SCOR](https://www.scor.com/en) / [KISTLER](https://www.kistler.com/de/)
 - Automated scripts
 - Hardware/Software embedded Systems
 - Starting work in the Swiss sphere 
 ---
 
-#### (2010 – 2012)	**Tester**, [Accenture, BA](https://www.accenture.com/sk-en)
+#### `2010 – 2012`**Tester**, [Accenture, BA](https://www.accenture.com/sk-en)
 - Kickstart testing career
 - Learning the basics
 - Enjoying working in my first team
 
-<div class="pagebreak"> </div>
 
-## <span style="color:darkblue">Skills & Expertise</span>
+## Skills & Expertise
 *   Testing - basically any form, if the system exists I’m motivated and capable to find out how exactly it works at any given moment
 *   Scripting - Powershell, Python, Bash
 *   Automation in Testing (Selenium - python, java, Tosca)
