@@ -10,3 +10,7 @@
 .cm-header-4, .markdown-preview-view h4 {
   color: MidnightBlue;
 }
+
+.markdown-preview-view code {
+  color: darkblue;
+}

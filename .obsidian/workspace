@@ -22,7 +22,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "2c29878e94d62c2b"
@@ -99,9 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02f5ca2c8bc85b5d",
+  "active": "9039bedacdcd450a",
   "lastOpenFiles": [
     "README.md",
+    "tryhackme.png",
     "CV.md",
     "profi_foto.JPG",
     "profi_photo.jpg.md",
