@@ -52,6 +52,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 **[Swisscom Home Automation](https://www.swisscom.ch)**
 - Investigating various aspects of a home automation solution
 - Experience with IoT and and various included platforms (smartphone, tablet, web, embedded)
+
 ---
 
 #### `2014 – 2016` **Test Consultant**, [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
@@ -61,13 +62,15 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - Tester at PROD emergency deployments
 - Subject matter expert on several topics – EBA, SIX, PF
 - Powershell, SQL
+
 ---
 
 #### `2012 – 2014` **Automation Test Engineer**, [ERNI, BA](https://www.outsourcing.erni/bratislava)
 - [SCOR](https://www.scor.com/en) / [KISTLER](https://www.kistler.com/de/)
 - Automated scripts
 - Hardware/Software embedded Systems
-- Starting work in the Swiss sphere 
+- Starting work in the Swiss sphere
+
 ---
 
 #### `2010 – 2012`**Tester**, [Accenture, BA](https://www.accenture.com/sk-en)
