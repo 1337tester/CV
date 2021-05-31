@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "02f5ca2c8bc85b5d",
+        "id": "6e2416b98fbd6af6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,19 +13,19 @@
             "mode": "source"
           }
         },
-        "group": "2c29878e94d62c2b"
+        "group": "7b28a6dfcabc8709"
       },
       {
-        "id": "9039bedacdcd450a",
+        "id": "7130dbd6c7dfaf1e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
-        "group": "2c29878e94d62c2b"
+        "group": "7b28a6dfcabc8709"
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9039bedacdcd450a",
+  "active": "7130dbd6c7dfaf1e",
   "lastOpenFiles": [
     "README.md",
     "tryhackme.png",

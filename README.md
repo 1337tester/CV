@@ -2,7 +2,7 @@
 
 %%[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)%%
 
-|  | ![photo](profi_foto.jpg) |
+|  | ![photo](/media/profi_foto.jpg) |
 | ----------- | ----------- |
 | Email | miso.zima@1337tester.com |
 | Web | www.1337tester.com | 
@@ -102,20 +102,25 @@ Slovakian	Native Speaker
 <div class="pagebreak"> </div>
 
 ## References
-![feedback_GPP](feedback_GPP.png)
+
+![feedback_GPP](/media/feedback_GPP.png)
+
+---
+
+![feedback_GPP](/media/Kelly_reccomend.jpg)
 
 ## Certifications and directions of learning
 - [python on hackerrank](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [python selenium](https://www.udemy.com/certificate/UC-FRHJVODO/) / [computer science and programming using python pt1](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pt2](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [interactive programming in python](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf)
 - [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
 - [several courses from RST](https://rapid-software-testing.com/)
 
-![tryhackme](tryhackme.png)
-![python_cour](python_cour.png)
-![python_edx1](python_edx1.png)
-![python_edx2](python_edx2.png)
-![python_udemy](python_udemy.png)
-![bug_bounty](bug_bounty.png)
-![forensics](forensics.png)
-![crypto1](crypto1.png)
+![tryhackme](/media/tryhackme.png)
+![python_cour](/media/python_cour.png)
+![python_edx1](/media/python_edx1.png)
+![python_edx2](/media/python_edx2.png)
+![python_udemy](/media/python_udemy.png)
+![bug_bounty](/media/bug_bounty.png)
+![forensics](/media/forensics.png)
+![crypto1](/media/crypto1.png)
 
 <script src="https://tryhackme.com/badge/336286"></script>
