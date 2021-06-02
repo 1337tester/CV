@@ -1,6 +1,7 @@
 # Michal Zima
 
-%%[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)%%
+[//]: # "[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)"
+
 
 |  | ![photo](/media/profi_foto.jpg) |
 | ----------- | ----------- |
