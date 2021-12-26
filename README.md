@@ -44,6 +44,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 
 **[Just Eat UK](https://www.just-eat.co.uk/)**
 - Introducing testing practices into two separate Growth teams
+- Training junior Colleagues
 - Rapid development & testing of multi-variant experiments, ‘fail fast’ approach
 - Python  / mobile apps testing (Android Studio)
 
