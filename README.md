@@ -6,11 +6,11 @@
 |  | ![photo](/media/profi_foto.jpg) |
 | ----------- | ----------- |
 | Email | miso.zima@1337tester.com |
-| Web | www.1337tester.com | 
+| Web | www.1337tester.com |
 | linkedIn | www.linkedin.com/in/1337tester/ |
-| Phone | +41766121224 | 
-| Nationality | Slovak | 
-| Date of birth | 17.01.1986 | 
+| Phone | +41766121224 |
+| Nationality | Slovak |
+| Date of birth | 17.01.1986 |
 
 ## About
 Testing for me is searching for order in the chaotic complexity which can emerge from the simplest of designs. It is bringing clarity into uncertainty, bringing value for the stakeholders with the quick and comprehensible information I provide.
@@ -19,7 +19,7 @@ While on projects I seek new ways to solve problems, minimize chaos, promote col
 
 _**"Michal tested this, there will be no surprises"**_
 
-My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem. 
+My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem.
 
 When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet.
 
@@ -29,6 +29,12 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 #### `2016 - now` **Test Specialist**, [House of Test GmbH, CH/UK](https://houseoftest.ch/)
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
+
+**[LGT](https://www.lgt.com/en/)**
+- Setting up testing processes from scratch on an ongoing Project for document archiving
+- Introducing agile in a light version - sprints, stories
+- Powershell scripting to support the testing process - creation of test documents, daily upload, creating batch deletions, etc
+- PowerShell / SQL / JIRA / xRay
 
 **[ZKB](https://www.zkb.ch/)**
 - Providing testing services in a digitization project for a team undergoing a transformation from waterfall into agile
@@ -79,6 +85,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - Learning the basics
 - Enjoying working in my first team
 
+<div class="pagebreak"> </div>
 
 ## Skills & Expertise
 *   Testing - basically any form, if the system exists I’m motivated and capable to find out how exactly it works at any given moment
