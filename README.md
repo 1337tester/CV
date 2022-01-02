@@ -1,6 +1,6 @@
 # Michal Zima
 
-[//]: # "[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)"
+[//]: # "[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r) / [Xing](https://www.xing.com/profile/Michal_Zima/cv)"
 
 
 |  | ![photo](/media/profi_foto.jpg) |
@@ -23,7 +23,7 @@ My strength dwells in curiosity to figure out software problems into their atomi
 
 When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet.
 
-<div class="pagebreak"> </div>
+<div style="page-break-after: always"></div>
 
 ## Professional Activity
 #### `2016 - now` **Test Specialist**, [House of Test GmbH, CH/UK](https://houseoftest.ch/)
@@ -86,7 +86,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - Learning the basics
 - Enjoying working in my first team
 
-<div class="pagebreak"> </div>
+<div style="page-break-after: always"></div>
 
 ## Skills & Expertise
 *   Testing - basically any form, if the system exists I’m motivated and capable to find out how exactly it works at any given moment
@@ -111,7 +111,7 @@ Slovakian	Native Speaker
 
 2009-now	Owning my education by reading books (testing, psychology, economics), attending onsite or online courses (Coursera, Udemy, BBST, ...) and conferences (3XC3, Defcon, Craft, SoCraTes), mainly security-oriented stuff (broad spectrum from network and security tools to lockpicking)
 
-<div class="pagebreak"> </div>
+<div style="page-break-after: always"></div>
 
 ## References
 
