@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         },
         "group": "7b28a6dfcabc8709"
@@ -22,7 +23,8 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview"
+            "mode": "preview",
+            "source": false
           }
         },
         "group": "7b28a6dfcabc8709"

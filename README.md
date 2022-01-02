@@ -101,10 +101,10 @@ _With House of Test, I found the ideal company for my testing career. It is full
 
 #### Languages
 
-English	 - Full Professional Knowledge
-German	Full Professional Knowledge
+English - Full Professional Knowledge
+German - Full Professional Knowledge
 Swiss German
-Slovakian	Native Speaker
+Slovakian - Native Speaker
 
 #### Education
 2004-2009	Comenius University, Faculty of Management, \
@@ -135,5 +135,3 @@ Slovakian	Native Speaker
 ![bug_bounty](/media/bug_bounty.png)
 ![forensics](/media/forensics.png)
 ![crypto1](/media/crypto1.png)
-
-<script src="https://tryhackme.com/badge/336286"></script>

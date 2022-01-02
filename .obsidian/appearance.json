@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "table",
+    "headings",
+    "inlinecode",
+    "ext_link",
+    "ext_link_newpage"
+  ],
+  "theme": "moonstone",
+  "cssTheme": ""
+}
