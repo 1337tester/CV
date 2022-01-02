@@ -64,7 +64,8 @@ _With House of Test, I found the ideal company for my testing career. It is full
 ---
 
 #### `2014 – 2016` **Test Consultant**, [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
-- Testing of banking systems - [Credit Suisse](https://www.credit-suisse.com/ch/de.html)
+- [Credit Suisse](https://www.credit-suisse.com/ch/de.html)
+- Testing of banking systems
 - EBA SDD certification tester
 - Guiding and teaching junior testers
 - Tester at PROD emergency deployments
@@ -117,9 +118,9 @@ Slovakian	Native Speaker
 
 ![feedback_GPP](/media/feedback_GPP.png)
 
----
+![feedback_Kelly](/media/Kelly_reccomend.jpg)
 
-![feedback_GPP](/media/Kelly_reccomend.jpg)
+<div style="page-break-after: always"></div>
 
 ## Certifications and directions of learning
 - [python on hackerrank](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [python selenium](https://www.udemy.com/certificate/UC-FRHJVODO/) / [computer science and programming using python pt1](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pt2](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [interactive programming in python](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf)
