@@ -120,7 +120,7 @@ Slovakian - Native Speaker
 
 ![feedback_Kelly](/media/recc/Kelly_reccomend.jpg)
 
-![feedback_Ilari](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima.pdf)
+![TODO_feedback_Ilari](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima.pdf)
 
 <div style="page-break-after: always"></div>
 
@@ -129,7 +129,7 @@ Slovakian - Native Speaker
 - [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
 - [several courses from RST](https://rapid-software-testing.com/)
 
-![BBST_F](/media/cert/BBST_foundation.pdfg)
+![BBST_F](/media/cert/BBST_foundation.jpg)
 ![BBST_TD](/media/cert/BBST_test_design.pdf)
 ![tryhackme](/media/cert/tryhackme.png)
 ![python_cour](/media/cert/python_cour.png)
