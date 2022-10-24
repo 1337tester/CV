@@ -116,9 +116,11 @@ Slovakian - Native Speaker
 
 ## References
 
-![feedback_GPP](/media/feedback_GPP.png)
+![feedback_GPP](/media/recc/feedback_GPP.png)
 
-![feedback_Kelly](/media/Kelly_reccomend.jpg)
+![feedback_Kelly](/media/recc/Kelly_reccomend.jpg)
+
+![feedback_Ilari](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima.pdf)
 
 <div style="page-break-after: always"></div>
 
@@ -127,11 +129,14 @@ Slovakian - Native Speaker
 - [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
 - [several courses from RST](https://rapid-software-testing.com/)
 
-![tryhackme](/media/tryhackme.png)
-![python_cour](/media/python_cour.png)
-![python_edx1](/media/python_edx1.png)
-![python_edx2](/media/python_edx2.png)
-![python_udemy](/media/python_udemy.png)
-![bug_bounty](/media/bug_bounty.png)
-![forensics](/media/forensics.png)
-![crypto1](/media/crypto1.png)
+![BBST_F](/media/cert/BBST_foundation.pdfg)
+![BBST_TD](/media/cert/BBST_test_design.pdf)
+![tryhackme](/media/cert/tryhackme.png)
+![python_cour](/media/cert/python_cour.png)
+![python_edx1](/media/cert/python_edx1.png)
+![python_edx2](/media/cert/python_edx2.png)
+![python_udemy](/media/cert/python_udemy.png)
+![crypto1](/media/cert/crypto1.png)
+![tryMongoDB](/media/cert/M001_mongodb_basics.jpg)
+![bug_bounty](/media/cert/bug_bounty.png)
+![forensics](/media/cert/forensics.png)
