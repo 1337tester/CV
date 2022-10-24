@@ -117,10 +117,9 @@ Slovakian - Native Speaker
 ## References
 
 ![feedback_GPP](/media/recc/feedback_GPP.png)
-
 ![feedback_Kelly](/media/recc/Kelly_reccomend.jpg)
-
-![TODO_feedback_Ilari](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima.pdf)
+![feedback_Ilari1](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima-1.jpg)
+![feedback_Ilari2](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima-2.jpg)
 
 <div style="page-break-after: always"></div>
 
@@ -130,7 +129,7 @@ Slovakian - Native Speaker
 - [several courses from RST](https://rapid-software-testing.com/)
 
 ![BBST_F](/media/cert/BBST_foundation.jpg)
-![BBST_TD](/media/cert/BBST_test_design.pdf)
+![BBST_TD](/media/cert/BBST_test_design.jpg)
 ![tryhackme](/media/cert/tryhackme.png)
 ![python_cour](/media/cert/python_cour.png)
 ![python_edx1](/media/cert/python_edx1.png)
