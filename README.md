@@ -101,10 +101,10 @@ _With House of Test, I found the ideal company for my testing career. It is full
 
 #### Languages
 
-English - Full Professional Knowledge
-German - Full Professional Knowledge
-Swiss German
-Slovakian - Native Speaker
+English - Full Professional Knowledge  
+German - Full Professional Knowledge  
+Swiss German - Beginner  
+Slovakian - Native Speaker  
 
 #### Education
 2004-2009	Comenius University, Faculty of Management, \
