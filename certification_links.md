@@ -1,0 +1,17 @@
+
+[python on hackerrank](https://www.hackerrank.com/certificates/2b05ea6d7fe0)  
+[python selenium](https://www.udemy.com/certificate/UC-FRHJVODO/)  
+[computer science and programming using python pt1](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) [pt2](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925)  
+[interactive programming in python](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf)  
+[forensics](https://www.udemy.com/certificate/UC-38XPV8V0/)  
+[cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA)  
+[bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/)  
+[h4ck1ng](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)  
+[several courses from RST](https://rapid-software-testing.com/)  
+[MongoDBbasics](https://university.mongodb.com/course_completion/2ae03e5d-b76c-4027-b8cc-3a50dea202d5)  
+[MongoDBDiagnosticThinking](https://university.mongodb.com/course_completion/3b7ac2f2-c5cb-4324-80d2-d340462a954a)  
+[ToscaAutomationEngineer1](https://verify.skilljar.com/c/iuqzvf6fr7gj)  
+[ToscaAutomationSpecialist1](https://verify.skilljar.com/c/g938tn455pyh)  
+[ToscaTestDesignSpecialist1](https://verify.skilljar.com/c/hv8na9yjohyz)  
+
+
