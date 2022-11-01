@@ -114,7 +114,7 @@ Slovakian - Native Speaker
 
 <div style="page-break-after: always"></div>
 
-## References
+## Reccomendations
 
 ![feedback_GPP](/media/recc/feedback_GPP.png)
 ![feedback_Kelly](/media/recc/Kelly_reccomend.jpg)
