@@ -117,28 +117,7 @@ Slovakian - Native Speaker
 ## Reccomendations
 
 You can view my recommendations [here](/recommendations.html)
-![feedback_GPP](/media/recc/feedback_GPP.png)
-![feedback_Kelly](/media/recc/Kelly_reccomend.jpg)
-![feedback_Ilari1](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima-1.jpg)
-![feedback_Ilari2](/media/recc/Arbeitszeugnis_von_Ilari_Michal_Zima-2.jpg)
-
-<div style="page-break-after: always"></div>
 
 ## Certifications and directions of learning
 
 You can view my certifications [here](/certifications.html)
-- [python on hackerrank](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [python selenium](https://www.udemy.com/certificate/UC-FRHJVODO/) / [computer science and programming using python pt1](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pt2](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [interactive programming in python](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf)
-- [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
-- [several courses from RST](https://rapid-software-testing.com/)
-
-![BBST_F](/media/cert/BBST_foundation.jpg)
-![BBST_TD](/media/cert/BBST_test_design.jpg)
-![tryhackme](/media/cert/tryhackme.png)
-![python_cour](/media/cert/python_cour.png)
-![python_edx1](/media/cert/python_edx1.png)
-![python_edx2](/media/cert/python_edx2.png)
-![python_udemy](/media/cert/python_udemy.png)
-![crypto1](/media/cert/crypto1.png)
-![tryMongoDB](/media/cert/M001_mongodb_basics.jpg)
-![bug_bounty](/media/cert/bug_bounty.png)
-![forensics](/media/cert/forensics.png)
