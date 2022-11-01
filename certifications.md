@@ -1,4 +1,4 @@
-For proof, click on the image
+(For proof, click on each image)
 
 ![BBST_F](/media/cert/BBST_foundation.jpg)
 ![BBST_TD](/media/cert/BBST_test_design.jpg)
