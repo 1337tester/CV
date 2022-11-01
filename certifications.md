@@ -12,4 +12,4 @@
 ![forensics](/media/cert/forensics.png)
 
 
-[![MongoDBM112](https://university.mongodb.com/course_completion/3b7ac2f2-c5cb-4324-80d2-d340462a954a)](/media/cert/M112_mongodb_diagnostic.jpg)
+[![MongoDBM112](/media/cert/M112_mongodb_diagnostic.jpg)](https://university.mongodb.com/course_completion/3b7ac2f2-c5cb-4324-80d2-d340462a954a)
