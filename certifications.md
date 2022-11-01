@@ -1,6 +1,6 @@
 ![BBST_F](/media/cert/BBST_foundation.jpg)
 ![BBST_TD](/media/cert/BBST_test_design.jpg)
-[![tryhackme](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
+[![THM](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
 ![python_cour](/media/cert/python_cour.png)
 [![python_edx1](/media/cert/python_edx1.png)](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488)
 [![python_edx2](/media/cert/python_edx2.png)](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925)
@@ -13,11 +13,9 @@
 [![Kaggle_adv_sql](/media/cert/kaggle_adv_sql.png)](https://www.kaggle.com/learn/certification/michalzima/advanced-sql)
 [![Kaggle_geo](/media/cert/kaggle_geo.png)](https://www.kaggle.com/learn/certification/michalzima/geospatial-analysis)
 [![Kaggle_cleaning](/media/cert/kaggle_cleaning.png)](https://www.kaggle.com/learn/certification/michalzima/data-cleaning)
-
 [![Kaggle_machine](/media/cert/kaggle_machine.png)](https://www.kaggle.com/learn/certification/michalzima/intro-to-machine-learning)
-
+[![Tosca_automation_specialist1](/media/cert/tosca_as_lvl1.jpg)](https://verify.skilljar.com/c/aaqior8wgzwy)
+[![Tosca_testdesign_specialist1](/media/cert/tosca_tds_lvl1.jpg)](https://verify.skilljar.com/c/xnzf8hcjeaxi)
+[![Tosca_automation_engineer1](/media/cert/tosca_ae_lvl1.jpg)](https://verify.skilljar.com/c/tzicyg33n5oy)
 [![bug_bounty](/media/cert/bug_bounty.png)](https://www.udemy.com/certificate/UC-15RQYEGJ/)
 [![forensics](/media/cert/forensics.png)](https://www.udemy.com/certificate/UC-38XPV8V0/)
-
-
-[![xx](xxx)](xxx)
