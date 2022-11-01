@@ -6,6 +6,10 @@
 ![python_edx2](/media/cert/python_edx2.png)
 ![python_udemy](/media/cert/python_udemy.png)
 ![crypto1](/media/cert/crypto1.png)
-![tryMongoDB](/media/cert/M001_mongodb_basics.jpg)
+![MongoDBM001](/media/cert/M001_mongodb_basics.jpg)
+![MongoDBM112](/media/cert/M112_mongodb_diagnostic.jpg)
 ![bug_bounty](/media/cert/bug_bounty.png)
 ![forensics](/media/cert/forensics.png)
+
+
+[![MongoDBM112](https://university.mongodb.com/course_completion/3b7ac2f2-c5cb-4324-80d2-d340462a954a)](/media/cert/M112_mongodb_diagnostic.jpg)
