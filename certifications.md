@@ -1,4 +1,3 @@
-For proof, click on image (most are linked)
 
 ![BBST_F](/media/cert/BBST_foundation.jpg)
 ![BBST_TD](/media/cert/BBST_test_design.jpg)
@@ -21,3 +20,5 @@ For proof, click on image (most are linked)
 [![Tosca_automation_engineer1](/media/cert/tosca_ae_lvl1.jpg)](https://verify.skilljar.com/c/tzicyg33n5oy)
 [![bug_bounty](/media/cert/bug_bounty.png)](https://www.udemy.com/certificate/UC-15RQYEGJ/)
 [![forensics](/media/cert/forensics.png)](https://www.udemy.com/certificate/UC-38XPV8V0/)
+
+<div style="page-break-after: always"></div>
