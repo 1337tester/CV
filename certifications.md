@@ -1,3 +1,6 @@
+For proof, click on image (most are linked)
+<div style="page-break-after: always"></div>
+
 
 ![BBST_F](/media/cert/BBST_foundation.jpg)
 ![BBST_TD](/media/cert/BBST_test_design.jpg)
