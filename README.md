@@ -114,7 +114,7 @@ Slovakian - Native Speaker
 
 <div style="page-break-after: always"></div>
 
-## Reccomendations
+## Recommendation
 
 You can view my recommendations [here](/recommendations.html)
 
