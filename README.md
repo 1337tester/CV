@@ -11,6 +11,12 @@
 | Phone | +41766121224 |
 | Nationality | Slovak |
 | Date of birth | 17.01.1986 |
+| [My references](/ref.html)|
+|[My certifications](/cert.html)
+
+## Certifications and directions of learning
+
+You can view my certifications [here](/certifications.html)
 
 ## About
 Testing for me is searching for order in the chaotic complexity which can emerge from the simplest of designs. It is bringing clarity into uncertainty, bringing value for the stakeholders with the quick and comprehensible information I provide.
@@ -114,10 +120,10 @@ Slovakian - Native Speaker
 
 <div style="page-break-after: always"></div>
 
-## Recommendation
+## References
 
-You can view my recommendations [here](/recommendations.html)
+You can view my recommendations [here](/ref.html)
 
 ## Certifications and directions of learning
 
-You can view my certifications [here](/certifications.html)
+You can view my certifications [here](/cert.html)
