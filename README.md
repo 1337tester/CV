@@ -11,8 +11,8 @@
 | Phone | +41766121224 |
 | Nationality | Slovak |
 | Date of birth | 17.01.1986 |
-| [My references](/ref.html)|
-|[My certifications](/cert.html)
+| [References](/ref.html)|
+| [Certifications](/cert.html) |
 
 ## Certifications and directions of learning
 
