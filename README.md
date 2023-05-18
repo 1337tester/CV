@@ -30,6 +30,12 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
+**[Ergon](https://www.ergon.ch/)**
+- Test strategy and testing of financial exchange software
+- Different TCP channels – FIX, OUCH, GLIMPSE, ITCH
+- Creating automated scenarios for risk-based test coverage
+- Wireshark / GitLab / python / Linux / Teleport
+
 **[ZKB](https://www.zkb.ch/)**
 - Providing testing services in a digitization project for a team undergoing a transformation from waterfall into agile
 - Setting up test processes, test data organisation, defect management
