@@ -18,3 +18,10 @@ describe('check linkedin', () => {
     cy.get('body > div > section > table > tbody > tr:nth-child(3) > td:nth-child(2):contains(\'www.linkedin.com/in/1337tester/\')')
   })
 })
+
+describe('failing test', () => {
+  it('passes', () => {
+    cy.visit('https://cv.1337tester.com')
+    cy.get('body > div > section > table > tbody > tr:nth-child(3) > td:nth-child(2):contains(\'www.li37tester/\')')
+  })
+})
