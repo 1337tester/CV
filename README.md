@@ -1,16 +1,18 @@
 # Michal Zima
 
-[//]: # "[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r)  / [Xing](https://www.xing.com/profile/Michal_Zima/cv)"
+[//]: # "[Email](mailto:miso.zima@1337tester.com) / [Website](https://www.1337tester.com) / [LinkedIn](https://www.linkedin.com/in/1337tester/) / [GitHub](https://github.com/1337tester) / [Twitter](https://twitter.com/1337T3st3r) / [Xing](https://www.xing.com/profile/Michal_Zima/cv)"
 
 
 |  | ![photo](/media/profi_foto.jpg) |
 | ----------- | ----------- |
 | Email | miso.zima@1337tester.com |
-| Web | www.1337tester.com | 
+| Web | www.1337tester.com |
 | linkedIn | www.linkedin.com/in/1337tester/ |
-| Phone | +41766121224 | 
-| Nationality | Slovak | 
-| Date of birth | 17.01.1986 | 
+| Phone | +41766121224 |
+| Nationality | Slovak |
+| Date of birth | 17.01.1986 |
+| [References](/ref.html)|
+| [Certifications](/cert.html) |
 
 ## About
 Testing for me is searching for order in the chaotic complexity which can emerge from the simplest of designs. It is bringing clarity into uncertainty, bringing value for the stakeholders with the quick and comprehensible information I provide.
@@ -19,22 +21,28 @@ While on projects I seek new ways to solve problems, minimize chaos, promote col
 
 _**"Michal tested this, there will be no surprises"**_
 
-My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem. 
+My strength dwells in curiosity to figure out software problems into their atomic essence. I’m currently interested in computer security - web, network and also the physical aspect of it. My methods include scripts to support my testing and I am willing to use trial/error to an extent where most people give up. This helps me create a model of the system which I then refine incrementally. At the end of the day, the feedback from testing itself shows the best approach. You need to always be ready to change the way how you approach the problem.
 
 When you don't see me testing, I am probably doing sports or exploring interesting parts of our planet.
 
-<div class="pagebreak"> </div>
+<div style="page-break-after: always"></div>
 
 ## Professional Activity
 #### `2016 - now` **Test Specialist**, [House of Test GmbH, CH/UK](https://houseoftest.ch/)
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
-**[Ergon](https://www.ergon.ch/)**
-- Test strategy and testing of financial exchange software
-- Different TCP channels – FIX, OUCH, GLIMPSE, ITCH
-- Creating automated scenarios for risk-based test coverage
-- Wireshark / GitLab / python / Linux / Teleport
+**[ERGON](https://www.ergon.ch)**
+- Test strategy and testing of financial exchange software  
+- Different TCP channels – FIX, OUCH, GLIMPSE, ITCH  
+- Creating automated scenarios for risk-based test coverage  
+- Wireshark / GitLab / python / Linux / Teleport  
+
+**[LGT](https://www.lgt.com/en/)**
+- Setting up testing processes from scratch on an ongoing Project for document archiving
+- Introducing agile in a light version - sprints, stories
+- Powershell scripting to support the testing process - creation of test documents, daily upload, creating batch deletions, etc
+- PowerShell / SQL / JIRA / xRay
 
 **[ZKB](https://www.zkb.ch/)**
 - Providing testing services in a digitization project for a team undergoing a transformation from waterfall into agile
@@ -44,6 +52,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 
 **[Just Eat UK](https://www.just-eat.co.uk/)**
 - Introducing testing practices into two separate Growth teams
+- Training junior Colleagues
 - Rapid development & testing of multi-variant experiments, ‘fail fast’ approach
 - Python  / mobile apps testing (Android Studio)
 
@@ -63,7 +72,8 @@ _With House of Test, I found the ideal company for my testing career. It is full
 ---
 
 #### `2014 – 2016` **Test Consultant**, [Capco, BA](https://www.capco.com/Contact/Locations-archive/Bratislava)
-- Testing of banking systems - [Credit Suisse](https://www.credit-suisse.com/ch/de.html)
+- [Credit Suisse](https://www.credit-suisse.com/ch/de.html)
+- Testing of banking systems
 - EBA SDD certification tester
 - Guiding and teaching junior testers
 - Tester at PROD emergency deployments
@@ -85,6 +95,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - Learning the basics
 - Enjoying working in my first team
 
+<div style="page-break-after: always"></div>
 
 ## Skills & Expertise
 *   Testing - basically any form, if the system exists I’m motivated and capable to find out how exactly it works at any given moment
@@ -98,10 +109,10 @@ _With House of Test, I found the ideal company for my testing career. It is full
 
 #### Languages
 
-English	 - Full Professional Knowledge
-German	Full Professional Knowledge
-Swiss German
-Slovakian	Native Speaker
+English - Full Professional Knowledge  
+German - Full Professional Knowledge  
+Swiss German - Beginner  
+Slovakian - Native Speaker  
 
 #### Education
 2004-2009	Comenius University, Faculty of Management, \
@@ -109,28 +120,12 @@ Slovakian	Native Speaker
 
 2009-now	Owning my education by reading books (testing, psychology, economics), attending onsite or online courses (Coursera, Udemy, BBST, ...) and conferences (3XC3, Defcon, Craft, SoCraTes), mainly security-oriented stuff (broad spectrum from network and security tools to lockpicking)
 
-<div class="pagebreak"> </div>
+<div style="page-break-after: always"></div>
 
 ## References
 
-![feedback_GPP](/media/feedback_GPP.png)
-
----
-
-![feedback_GPP](/media/Kelly_reccomend.jpg)
+[You can view my recommendations here](/ref.html)
 
 ## Certifications and directions of learning
-- [python on hackerrank](https://www.hackerrank.com/certificates/2b05ea6d7fe0) / [python selenium](https://www.udemy.com/certificate/UC-FRHJVODO/) / [computer science and programming using python pt1](https://courses.edx.org/certificates/0629de5730e34be0864861daacefa488) / [pt2](https://courses.edx.org/certificates/3e1bf81675fb47059e4ee193b8e30925) / [interactive programming in python](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972530~4583279/pdf)
-- [forensics](https://www.udemy.com/certificate/UC-38XPV8V0/) / [cryptography](https://www.coursera.org/account/accomplishments/certificate/5NFZK88SZ5NA) / [bug bounty](https://www.udemy.com/certificate/UC-15RQYEGJ/) / [h4ck1ng](https://tryhackme-badges.s3.amazonaws.com/1337tester.png)
-- [several courses from RST](https://rapid-software-testing.com/)
 
-![tryhackme](/media/tryhackme.png)
-![python_cour](/media/python_cour.png)
-![python_edx1](/media/python_edx1.png)
-![python_edx2](/media/python_edx2.png)
-![python_udemy](/media/python_udemy.png)
-![bug_bounty](/media/bug_bounty.png)
-![forensics](/media/forensics.png)
-![crypto1](/media/crypto1.png)
-
-<script src="https://tryhackme.com/badge/336286"></script>
+[You can view my certifications here](/cert.html)
