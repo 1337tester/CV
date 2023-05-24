@@ -24,4 +24,4 @@ describe('check phone', () => {
     cy.visit('https://cv.1337tester.com')
     cy.get('.wrapper > section:nth-child(2) > table:nth-child(2) > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(2):contains(\'+41766121224\')')
   })
-})
+}) 
