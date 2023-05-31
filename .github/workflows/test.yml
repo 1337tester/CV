@@ -6,6 +6,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: visualisation
+        uses: githubocto/repo-visualizer
       - name: Cypress run
         uses: cypress-io/github-action@v5
         with:
