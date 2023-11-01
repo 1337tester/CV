@@ -4,3 +4,4 @@ cypress/screenshots
 cypress/downloads
 results.json
 .vscode/
+.obsidian/
