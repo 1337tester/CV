@@ -32,6 +32,12 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
+**[Helsana](https://www.helsana.ch)**
+- Leading a Regression Test transition 
+- Development and Maintenance of various test scripts - Playwright, unit-tests
+- Incident handling, bug investigation
+- Splunk / Playwright / TypeScript  
+
 **[ERGON](https://www.ergon.ch)**
 - Test strategy and testing of financial exchange software  
 - Different TCP channels – FIX, OUCH, GLIMPSE, ITCH  
