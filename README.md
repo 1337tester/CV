@@ -27,7 +27,7 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 
 <div style="page-break-after: always"></div>
 
-## Professional Activity
+## Professional Activity 🤺
 #### `2016 - now` **Test Specialist**, [House of Test GmbH, CH/UK](https://houseoftest.ch/)
 
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
@@ -36,6 +36,7 @@ _With House of Test, I found the ideal company for my testing career. It is full
 - Leading a Regression Test transition 
 - Development and Maintenance of various test scripts - Playwright, unit-tests
 - Incident handling, bug investigation
+- API Testing
 - Splunk / Playwright / TypeScript  
 
 **[ERGON](https://www.ergon.ch)**
@@ -124,7 +125,7 @@ Slovakian - Native Speaker
 2004-2009	Comenius University, Faculty of Management, \
 	Master in IT Management
 
-2009-now	Owning my education by reading books (testing, psychology, economics), attending onsite or online courses (Coursera, Udemy, BBST, ...) and conferences (3XC3, Defcon, Craft, SoCraTes), mainly security-oriented stuff (broad spectrum from network and security tools to lockpicking)
+2009-now	Owning my education by reading books (testing, psychology, economics), attending onsite or online courses (Coursera, Udemy, BBST, ...) and conferences (3XC3, Defcon, Craft, SoCraTes), mainly security-oriented stuff  
 
 <div style="page-break-after: always"></div>
 
