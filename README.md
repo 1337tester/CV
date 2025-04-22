@@ -122,7 +122,7 @@ Swiss German - Beginner
 Slovakian - Native Speaker  
 
 #### Education
-2004-2009	Comenius University, Faculty of Management, \
+2004-2010	Comenius University, Faculty of Management, \
 	Master in IT Management
 
 2009-now	Owning my education by reading books (testing, psychology, economics), attending onsite or online courses (Coursera, Udemy, BBST, ...) and conferences (3XC3, Defcon, Craft, SoCraTes), mainly security-oriented stuff  
