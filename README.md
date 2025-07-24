@@ -33,10 +33,10 @@ When you don't see me testing, I am probably doing sports or exploring interesti
 _With House of Test, I found the ideal company for my testing career. It is full of like-minded people strongly supporting each other._
 
 **[Helsana](https://www.helsana.ch)**
-- Spearheaded transition to streamlined Regression Testing framework at Helsana, enhancing test efficiency and coverage
+- Spearheaded transition to streamlined Regression Testing framework, enhancing test efficiency and coverage
 - Developed and maintained robust test scripts - API, GUI, unit tests
 - Managed incident resolution and conducted in-depth bug investigations to maintain high-quality deliverables
-- Splunk / Playwright / TypeScript / Bruno / Camunda / Jira(Xray) 
+- Splunk / TypeScript / Bruno / Camunda / Jira(Xray) / SQL / PlayWright
 
 **[ERGON](https://www.ergon.ch)**
 - Test strategy and testing of financial exchange software  
