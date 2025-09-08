@@ -1,6 +1,7 @@
 For proof, click on image (most are linked)
 <div style="page-break-after: always"></div>
 
+[![Open-Source Intelligence (OSINT) Fundamentals](/media/cert/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf)]
 [![SAL1 from TryHackMe.com](https://assets.tryhackme.com/certification-certificate/6845de420f7e6cf8affe5cc0.png)](https://tryhackme.com/certification/certificate/e8d28cbb-1072-4cf9-8589-86d6fcf1fe4d)
 ![BBST_F](/media/cert/BBST_foundation.jpg)
 ![BBST_TD](/media/cert/BBST_test_design.jpg)
