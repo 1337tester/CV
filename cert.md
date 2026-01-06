@@ -1,7 +1,7 @@
 For proof, click on image (most are linked)
 <div style="page-break-after: always"></div>
 
-[![Advent of Cyber 2025](/media/cert/THM_advent_2025.pdf)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LFV1NVZLAT.pdf)
+[![Advent of Cyber 2025](/media/cert/THM_advent_2025.png)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LFV1NVZLAT.pdf)
 [![Claude with the Anthropic AI](/media/cert/claude_ai.png)](https://verify.skilljar.com/c/vpeqxu4yk8h5)
 ![Open-Source Intelligence (OSINT) Fundamentals](/media/cert/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.png)
 [![SAL1 from TryHackMe.com](https://assets.tryhackme.com/certification-certificate/6845de420f7e6cf8affe5cc0.png)](https://tryhackme.com/certification/certificate/e8d28cbb-1072-4cf9-8589-86d6fcf1fe4d)
