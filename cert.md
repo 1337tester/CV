@@ -1,8 +1,8 @@
 For proof, click on image (most are linked)
 <div style="page-break-after: always"></div>
 
-[![Play it safe](/media/cert/playitsafe_cert_google.pdf)](https://www.coursera.org/account/accomplishments/verify/5LYL3CMT7KHZ)
-[![Foundations of Cybersecurity](/media/cert/cybersecurity_found_cert_google.pdf)](https://www.coursera.org/account/accomplishments/verify/A3O8PFSVIJUR)
+[![Play it safe](/media/cert/playitsafe_cert_google.jpg)](https://www.coursera.org/account/accomplishments/verify/5LYL3CMT7KHZ)
+[![Foundations of Cybersecurity](/media/cert/cybersecurity_found_cert_google.jpg)](https://www.coursera.org/account/accomplishments/verify/A3O8PFSVIJUR)
 [![Advent of Cyber 2025](/media/cert/THM_advent_2025.png)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LFV1NVZLAT.pdf)
 [![Claude with the Anthropic AI](/media/cert/claude_ai.png)](https://verify.skilljar.com/c/vpeqxu4yk8h5)
 ![Open-Source Intelligence (OSINT) Fundamentals](/media/cert/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.png)
