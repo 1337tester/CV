@@ -1,6 +1,7 @@
 For proof, click on image (most are linked)
 <div style="page-break-after: always"></div>
 
+[![Connect and Protect](/media/cert/connect_and_protect.jpg)](https://www.coursera.org/account/accomplishments/verify/V1BTI4Y8SHWY)
 [![Play it safe](/media/cert/playitsafe_cert_google.jpg)](https://www.coursera.org/account/accomplishments/verify/5LYL3CMT7KHZ)
 [![Foundations of Cybersecurity](/media/cert/cybersecurity_found_cert_google.jpg)](https://www.coursera.org/account/accomplishments/verify/A3O8PFSVIJUR)
 [![Advent of Cyber 2025](/media/cert/THM_advent_2025.png)](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LFV1NVZLAT.pdf)
