@@ -1,6 +1,7 @@
 For proof, click on image (most are linked)
 <div style="page-break-after: always"></div>
 
+[![Tools of the Trade](/media/cert/tools_of_the_trade.jpg)](https://www.coursera.org/account/accomplishments/verify/FCFPUOYFW38Y)
 [![Connect and Protect](/media/cert/connect_and_protect.jpg)](https://www.coursera.org/account/accomplishments/verify/V1BTI4Y8SHWY)
 [![Play it safe](/media/cert/playitsafe_cert_google.jpg)](https://www.coursera.org/account/accomplishments/verify/5LYL3CMT7KHZ)
 [![Foundations of Cybersecurity](/media/cert/cybersecurity_found_cert_google.jpg)](https://www.coursera.org/account/accomplishments/verify/A3O8PFSVIJUR)
