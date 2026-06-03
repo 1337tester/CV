@@ -1,6 +1,7 @@
 For proof, click on image (most are linked)
 <div style="page-break-after: always"></div>
 
+[![Google Cybersecurity](/media/cert/google_cybersecurity.jpg)](https://www.coursera.org/account/accomplishments/specialization/32LUKXRYDDP6)
 [![Put It to Work: Prepare for Cybersecurity Jobs](/media/cert/put_it_to_work.jpg)](https://www.coursera.org/account/accomplishments/verify/69G2KU8KJFUO)
 [![Automate Cybersecurity Tasks with Python](/media/cert/automate_cybersecurity_python.jpg)](https://www.coursera.org/account/accomplishments/verify/AC0EIW1L9T2C)
 [![Sound the Alarm](/media/cert/sound_the_alarm.jpg)](https://www.coursera.org/account/accomplishments/verify/PP366ADS574G)
